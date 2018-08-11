@@ -123,9 +123,3 @@ This component consists of 4 connections to the Arduino board:
 - Blue Color&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -> pin 10
 
 Its function is to show the user the combination of the CPU and his own while they are being created.
-
-<<<<<<< HEAD
-With the SNES pad we control the interactions of the user with the program, telling the board the actions that we want to be carried out so that, the software executes the necessary functions to carry out said action launched by the user.
-=======
-With the SNES pad we control the interactions of the user with the program, telling the board the actions that we want to be carried out so that, the software executes the necessary functions to carry out said action launched by the user.
->>>>>>> 6087c6f37bbd18ddb0cc0596a6ed45bc221cb41c

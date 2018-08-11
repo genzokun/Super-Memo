@@ -14,7 +14,7 @@ https://github.com/genzokun/GHfiles/blob/master/super-memo/5.png?raw=true
 
 An Arduino + Processing videogame where the user has to repeat random color combinations.
 
-## Introducción
+## Introduction
 Super Memo is a memory game where the user will face five different levels, which will have to prove his/her skills when it comes to remembering color patterns. With only three lives you must be able to reach the end of the game.
 
 ## Technology
